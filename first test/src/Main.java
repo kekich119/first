@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //пися попа
         int [] array = {1,2,3,10,10,10,10,10,5};
         float total = 0;
         float avg = 0;
